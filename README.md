@@ -1,5 +1,5 @@
-# Interview-ui-ux-internships-Witeboard-Challenge-2
-***Witheboard Challenge for Meditation and Mindfulness App***
+# Interview-ui-ux-internships-Whiteboard-Challenge-2
+***Whitheboard Challenge for Meditation and Mindfulness App***
 
 **Points that needs to be considered**
 Design an app that offers guided meditation sessions, relaxation techniques, and mindfulness exercises to promote mental well-being.
